@@ -25,7 +25,7 @@ I'm an **AI Agents Engineer** focused on building autonomous systems that automa
 
 My edge: I don't just build chatbots — I ship **autonomous business operators** that work 24/7, replacing entire workflows with reliable, observable, and scalable AI.
 
-🌍 Fluent in **Portuguese**, **English**, and **French**.
+🌍 Native **Portuguese** speaker · Currently learning **English** and **French** (A1–A2 level).
 
 ---
 
