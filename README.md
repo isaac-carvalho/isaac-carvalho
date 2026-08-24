@@ -26,20 +26,19 @@
 
 Sou um **AI Agents Engineer & Desenvolvedor Full-Stack** focado em construir sistemas autônomos, plataformas SaaS escaláveis e agentes de IA que automatizam prospecção, atendimento 24/7 no WhatsApp, relatórios e processos operacionais de empresas na **Europa**, **Brasil** e **África**.
 
-Desenvolvo e coloco em produção ecossistemas completos com arquiteturas robustas, alta observabilidade, baixa latência e foco direto em conversão e lucro.
+Desenvolvo e opero ecossistemas completos em infraestrutura própria de produção, com arquiteturas robustas, alta observabilidade, baixa latência e foco direto em conversão e lucro.
 
 🌍 **Idiomas:** Português (Nativo) · Inglês · Francês · Espanhol
 
 ---
 
-## 🚀 Live SaaS & Flagship Projects (Em Produção)
+## 🚀 Live SaaS & Flagship Projects (Exclusivos em Produção)
 
-| Projeto | Descrição | Stack Tecnológica | Link de Produção |
+| Projeto | Descrição | Stack Tecnológica | Acesso ao Produto |
 | :--- | :--- | :--- | :--- |
 | 🏗️ **OAKEN:BUILD** | SaaS completo de gestão de obras, medições por m², cálculo de materiais com IA, controlo de assiduidade em tempo real e faturação AT. | `React` · `TypeScript` · `Node.js` · `Prisma` · `SQLite/Postgres` | [🔗 Aceder ao SaaS](https://oakenbuild.n8noaken.cloud) |
 | ⚡ **OAKEN STUDIO** | Landing Page e agência digital multilingue (4 idiomas: PT, EN, FR, ES) com calculadora interativa de ROI e agendamento WhatsApp. | `HTML5 Semântico` · `CSS3 Glassmorphic` · `JavaScript Vanilla` · `Nginx` | [🔗 Aceder ao Studio](https://oakenstudio.n8noaken.cloud) |
 | 🎓 **MUXIMA MARKET** | Marketplace de cursos e formação técnica com checkout integrado, pagamentos e streaming de vídeo. | `React` · `Node.js` · `PostgreSQL (Supabase)` · `Prisma` · `PM2` | [🔗 Aceder ao Marketplace](https://muximamarket.n8noaken.cloud) |
-| 🤖 **OAKEN AGENTES** | Coleção de **25 agentes autônomos de IA** para vendas, atendimento, CRM e processos internos. | `Python` · `Claude API` · `OpenAI API` · `FastAPI` · `LangChain` | [🔗 Ver Repositório](https://github.com/isaac-carvalho/oaken-agentes) |
 
 ---
 
